@@ -1,6 +1,6 @@
 # Hi, I'm Sondos El Ahmady
 
-Third-year Computer Engineering student at the British University in Egypt (GPA 3.9). I've been working since I was 15, and I learn fastest by building things.
+Junior Computer Engineering student at the British University in Egypt (GPA 3.9).
 
 - Head of Teaching Assistants, mentoring a TA team and supporting 40+ IGCSE students
 - Head of Secretary at IEEE BUE Student Branch: official submissions, event reporting, bylaws and documentation
