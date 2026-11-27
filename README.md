@@ -2,9 +2,9 @@
 
 Junior Computer Engineering student at the British University in Egypt (GPA 3.9). Always curious, never idle.
 
-- Head of Teaching Assistants, mentoring a TA team and supporting 40+ IGCSE students
+- Head of Teaching Assistants, mentoring a TA team and supported 500+ IGCSE students
 - Head of Secretary at IEEE BUE Student Branch: official submissions, event reporting, bylaws and documentation
-- Cybersecurity instructor: live sessions on web exploitation and CTF fundamentals for 100+ participants
+- Cybersecurity instructor: live sessions on web exploitation and CTF fundamentals for 50+ participants
 - Certified: CCNA, CompTIA Network+
 - Previously: Baker Hughes (led the 8-intern final showcase on wireline and drilling systems), PETROJET (IT internship)
 
